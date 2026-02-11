@@ -1,0 +1,39 @@
+
+.chat-card {
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+.chat-box {
+  height: 360px;
+  background: #fff;
+  border: 1px solid #e7e7e7;
+  border-radius: 12px;
+  padding: 14px;
+  overflow-y: auto;
+}
+
+.msg {
+  padding: 10px 12px;
+  border-radius: 12px;
+  background: #f6f7f9;
+  border: 1px solid #eeeeee;
+  margin-bottom: 10px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-size: 14px;
+}
+
+.chat-input {
+  border-radius: 999px;
+  padding-left: 14px;
+}
+
+.typing {
+  min-height: 18px; /* prevents page jump */
+}
+
+.auth-card {
+  border-radius: 14px;
+  overflow: hidden;
+}
